@@ -597,8 +597,9 @@ CSE Undergraduate
 Interests:
 
 - Cybersecurity
+- Penetration Testing
 - Machine Learning
-- Ethical Hacking
+- Artificial Inteligence
 - Software Development
 
 ---
