@@ -598,6 +598,7 @@ Interests:
 
 - Cybersecurity
 - Penetration Testing
+- Reverse Engineering
 - Machine Learning
 - Artificial Inteligence
 - Software Development
