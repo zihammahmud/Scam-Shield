@@ -515,8 +515,8 @@ The project is planned for approximately two months with around one hour of deve
 
 ### Phase 8 — Deployment
 
-- Deploy frontend to Vercel
-- Deploy backend to Render
+- Deploy frontend
+- Deploy backend
 - Configure CORS
 - Test production API
 - Fix deployment issues
@@ -602,7 +602,6 @@ Interests:
 - Reverse Engineering
 - Machine Learning
 - Artificial Inteligence
-- Software Development
 
 ---
 
