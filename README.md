@@ -4,7 +4,7 @@
 
 ScamShield is a web-based cybersecurity and machine learning project designed to detect potentially fraudulent, promotional, and legitimate messages.
 
-The system uses natural language processing and supervised machine learning to analyze message content and classify it into three categories:
+The system uses natural language processing (NLP)  and supervised machine learning to analyze message content and classify it into three categories:
 
 - **Normal** — regular legitimate messages
 - **Promotional** — legitimate marketing or promotional messages
